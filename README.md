@@ -1,3 +1,6 @@
+Risk Management: The loan default prediction algorithm enables the business to assess the risk associated with each loan application, allowing for more informed lending decisions and reducing the likelihood of financial losses.
+
+
 Performance Analysis of Machine Learning Classifiers for Loan Default
 
 In this analysis, we analysed the performance of 3 major machine learning classifiers.
